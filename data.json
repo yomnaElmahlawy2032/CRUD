@@ -1,0 +1,57 @@
+{
+  "admins": [
+    {
+      "userName": "yomna",
+      "password": "545454",
+      "email": "yomna@gmail.com",
+      "phone": "01008460690",
+      "country": "Egypt",
+      "gender": "female",
+      "id": 1
+    },
+    {
+      "userName": "",
+      "password": "",
+      "email": "",
+      "phone": "",
+      "country": "",
+      "gender": "",
+      "id": 2
+    },
+    {
+      "userName": "",
+      "password": "",
+      "email": "",
+      "phone": "",
+      "country": "",
+      "gender": "",
+      "id": 3
+    }
+  ],
+  "users": [
+    {
+      "name": "yomna hassan",
+      "email": "yomna@gmail.com",
+      "country": "Egypt",
+      "id": 1
+    },
+    {
+      "name": "yomna",
+      "email": "yomna@gmail.com",
+      "country": "KSA",
+      "id": 2
+    },
+    {
+      "name": "yomn",
+      "email": "cft@dgf.gjk",
+      "country": "Egypt",
+      "id": 3
+    },
+    {
+      "name": "rewan",
+      "email": "rewan@gmail.com",
+      "country": "Egypt",
+      "id": 6
+    }
+  ]
+}
